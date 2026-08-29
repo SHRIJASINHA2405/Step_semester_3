@@ -14,7 +14,7 @@ class PlacementRecord {
     }
 }
 public class PlacementRecordDemo {
-     public static void main(String [] args) {
+     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         PlacementRecord[] records = new PlacementRecord[3];
         for (int i = 0; i < 3; i++) {
