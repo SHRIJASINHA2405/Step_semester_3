@@ -1,6 +1,5 @@
 package session_one_javastring.assignment_problems;
 import java.util.Scanner;
-
 public class MovieReviewWordLengthProfilerDemo {
 
     // Method to classify words according to their length
