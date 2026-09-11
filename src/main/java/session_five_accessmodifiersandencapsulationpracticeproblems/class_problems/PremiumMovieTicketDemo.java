@@ -1,5 +1,4 @@
 package session_five_accessmodifiersandencapsulationpracticeproblems.class_problems;
-
 class PremiumTicketBase {
 
     private double ticketPrice;
