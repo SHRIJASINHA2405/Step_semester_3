@@ -1,3 +1,5 @@
+package session_five_accessmodifiersandencapsulationpracticeproblems.class_problems;
+
 class MovieTicketAccess {
 
     private String seatNumber;
