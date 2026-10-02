@@ -42,6 +42,7 @@ public class MorningWakeUpCircuit {
         }
     }
 
+
     public static void main(String[] args) {
 
         AlarmClock a = new AlarmClock("7:00 AM");
