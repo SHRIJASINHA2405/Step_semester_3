@@ -11,7 +11,6 @@ public abstract class Toy {
         counter++;
         this.toyId = "TOY-" + counter;
     }
-
     public abstract String makeSound();
 
     public String getToyId() {
